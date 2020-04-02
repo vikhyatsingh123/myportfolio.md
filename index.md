@@ -29,7 +29,6 @@ ul li {
       border-radius: 50%;
       margin-right: 40px;
       height:10%
-
     }
 .yo1 {
       width: 5%;
